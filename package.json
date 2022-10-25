@@ -2,7 +2,7 @@
   "name": "getting-started-nodejs",
   "version": "0.0.1",
   "engines": {
-    "node": "v19.0.0"
+    "node": "v18.0.0"
   },
   "dependencies": {
     "express": "4.18.2",
