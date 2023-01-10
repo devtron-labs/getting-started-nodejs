@@ -1,5 +1,6 @@
 {
   "name": "getting-started-nodejs",
+  "description": "test",
   "version": "0.0.1",
   "engines": {
     "node": "0.6.x"
