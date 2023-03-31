@@ -1,4 +1,4 @@
-# getting-started-nodejs
+# getting-started-nodej
 
 > Check out this video on Youtube which demonstrates how to deploy this node.js microservice on a Kubernetes cluster using Devtron:
 > 
