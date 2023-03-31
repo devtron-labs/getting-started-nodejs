@@ -43,6 +43,8 @@ After creating the app, setup the configurations. Copy the repo URL https://gith
 **STEP 3**
 Now choose your Docker build config, the repository where you want to keep your CI build image. Select the container registry from the drop-down.
 
+
+
 **STEP 4**
 Coming up next is configuring the deployment template. As this is a very simple nodejs application we will be only covering the required the configs.
 
