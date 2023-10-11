@@ -5,7 +5,8 @@ RUN arch=$(arch | sed s/aarch64/arm64/ | sed s/x86_64/amd64/) && echo $arch && w
 RUN chmod +x /tini
 ENTRYPOINT ["/tini", "--"]
 
-COPY /.  .
+COPY package.json .
 RUN npm install
 
+COPY /.  .
 CMD ["node","app.js"]
