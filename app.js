@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var cities = {cities:["Amsterdam","Berlin","New York","San Francisco","Tokyo", "Delhi"]}
+var cities = {cities:["Amsterdam","Berlin","New York","San Francisco","Tokyo", "Delhi", "Gurugram"]}
 var text1 = makeid(40);
 var text2 = text1+ " "+makeid(40);
 var text3 = text2+ " "+makeid(40);
